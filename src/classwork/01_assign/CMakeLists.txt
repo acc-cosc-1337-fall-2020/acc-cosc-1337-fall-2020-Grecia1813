@@ -1,4 +1,5 @@
-﻿cmake_minimum_required (VERSION 3.8)
+ 
+cmake_minimum_required (VERSION 3.8)
 project(cw_01_library)
 
 add_library(cw_01_library "types.cpp" "types.h")
