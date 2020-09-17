@@ -15,3 +15,19 @@ RESULT:
 
 */
 
+{
+  for(int i=0; i < num; ++i)
+  {
+    std::cout<<i<<i+1<<"\n";
+  }
+}
+
+int sum_numbers(int num)
+{
+  int sum = 0;
+  for (int i=0; i <= num; ++i)
+  {
+      sum += i + i; 
+  }
+  return sum;
+}
