@@ -1,5 +1,10 @@
 #include "value_ref.h"
 
+int default_optional_params(int num1, int num2)
+{
+  return num1 * num2;
+}
+
 /*
 Write function code for pass_by_val_and_ref with
 a value int num1 and ref int num2 parameter.
