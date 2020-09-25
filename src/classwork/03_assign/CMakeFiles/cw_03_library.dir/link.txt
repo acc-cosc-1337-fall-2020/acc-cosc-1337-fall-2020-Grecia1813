@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcw_03_library.a  CMakeFiles/cw_03_library.dir/decision.cpp.o
+/usr/bin/ranlib libcw_03_library.a

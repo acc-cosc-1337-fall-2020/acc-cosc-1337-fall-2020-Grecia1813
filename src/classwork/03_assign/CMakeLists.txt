@@ -1,4 +1,4 @@
-﻿cmake_minimum_required (VERSION 3.8)
+cmake_minimum_required (VERSION 3.8)
 project(cw_03_library)
 
 add_library(cw_03_library "decision.cpp" "decision.h")
