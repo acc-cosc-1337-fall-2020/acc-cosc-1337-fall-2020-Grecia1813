@@ -1,0 +1,2 @@
+/usr/bin/ar qc libex_01_04_library.a  CMakeFiles/ex_01_04_library.dir/numbers.cpp.o
+/usr/bin/ranlib libex_01_04_library.a
