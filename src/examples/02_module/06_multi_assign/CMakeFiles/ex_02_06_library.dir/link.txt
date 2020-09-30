@@ -1,0 +1,2 @@
+/usr/bin/ar qc libex_02_06_library.a  CMakeFiles/ex_02_06_library.dir/multi_assign.cpp.o
+/usr/bin/ranlib libex_02_06_library.a

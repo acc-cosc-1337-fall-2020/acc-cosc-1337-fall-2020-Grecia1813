@@ -1,8 +1,12 @@
+#include<iostream>
 
+using std::string; using std::cout;
 
-int main() 
+int main()
 {
-	//Create string variable and display it		
 
-	return 0;
+  string name = "John Doe";
+  cout << "Size is: " << name.size();
+
+  return 0;
 }

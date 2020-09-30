@@ -1,4 +1,4 @@
-
+#include "casting.h"
 /*
 Function convert_int_to_double multiplies years times interest_rate
 
@@ -22,3 +22,9 @@ a static_cast conversion to int
 @param double num
 @return the static cast conversion to int
 */
+int convert_double_to_int(double num)
+{
+  
+  return num;
+
+}
