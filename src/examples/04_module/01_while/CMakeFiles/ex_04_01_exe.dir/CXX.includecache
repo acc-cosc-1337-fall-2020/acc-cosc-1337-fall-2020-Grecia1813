@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/04_module/01_while/main.cpp
+while.h
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/04_module/01_while/while.h
+iostream
+-
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/04_module/01_while/while.cpp
+while.h
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/04_module/01_while/while.h
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/04_module/01_while/while.h
+string
+-
+

@@ -6,11 +6,17 @@ using std::cout; using std::cin;
 
 int main() 
 {
-  int option;
-  cout<<"Enter a number: ";
-  cin>>option;
+  int option, y = 0, z = 0;
+
+  
+  cout << "Enter a number: ";
+  cin >> option;
 
   std::string result = menu(option);
-  cout<<result<<"\n";
+  cout << result << "\n";
+
+  option > 5 ? y = 10 : z = 20;
+  cout << "Y " << y << " Z " << z;
+  
   return 0;
 }
