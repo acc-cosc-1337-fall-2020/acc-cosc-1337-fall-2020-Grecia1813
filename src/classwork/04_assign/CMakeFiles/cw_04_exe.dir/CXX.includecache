@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/classwork/04_assign/loops.cpp
+loops.h
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/classwork/04_assign/loops.h
+iostream
+-
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/classwork/04_assign/loops.h
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/classwork/04_assign/main.cpp
+loops.h
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/classwork/04_assign/loops.h
+iostream
+-
+string
+-
+
