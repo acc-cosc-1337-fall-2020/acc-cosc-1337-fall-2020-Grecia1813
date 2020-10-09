@@ -1,0 +1,4 @@
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/homework/04_iteration/CMakeFiles/rebuild_cache.dir
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/homework/04_iteration/CMakeFiles/edit_cache.dir
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/homework/04_iteration/CMakeFiles/hw_04_library.dir
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/homework/04_iteration/CMakeFiles/hw_04_exe.dir

@@ -1,5 +1,7 @@
 language = "cpp"
-run="cd src/examples/04_module/05_value_and_reference_params; cmake .; make; ./ex_04_05_exe;"
+run="export CC=clang; export CXX=clang++; rm -rf ../build; mkdir -p ../build; cd ../build; cmake ../acc-cosc-1337-fall-2020-Grecia1813-1/; make; cd test/homework_test/04_iteration_test; ./hw_04_tests -s;"
+
+
 
 
 
