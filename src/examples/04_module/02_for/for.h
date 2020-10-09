@@ -1,5 +1,3 @@
 //Write function prototype for a function named display_numbers 
 //that accepts an int and returns void
-int display_numbers(int num);
-
-int sum_numbers(int num);
+void display_numbers(int num);

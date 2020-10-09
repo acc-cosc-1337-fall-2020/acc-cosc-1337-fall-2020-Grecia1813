@@ -1,0 +1,2 @@
+/usr/bin/ar qc libex_04_05_library.a  CMakeFiles/ex_04_05_library.dir/value_ref.cpp.o
+/usr/bin/ranlib libex_04_05_library.a

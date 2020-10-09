@@ -1,0 +1,2 @@
+/usr/bin/ar qc libex_04_02_library.a  CMakeFiles/ex_04_02_library.dir/for.cpp.o
+/usr/bin/ranlib libex_04_02_library.a

@@ -1,8 +1,19 @@
 #include "value_ref.h"
 
-int default_optional_params(int num1, int num2)
+void pass_by_val_and_ref(int num1, int& num2)
 {
-  return num1 * num2;
+  num1 = 20;
+  num2 = 50;
+
+
+
+}
+
+
+
+void pass_by_const_ref(const int& num3)
+{
+  
 }
 
 /*

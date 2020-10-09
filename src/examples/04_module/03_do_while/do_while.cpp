@@ -3,27 +3,30 @@
 
 using std::cout; using std::cin;
 
-//Write code for void function prompt_user to loop until
-//user opts not to continue.  
-
 void prompt_user()
 {
-    char choice;
+  char choice;
 
-    do
-    {
-        cout<<"Enter y to continue: ";
-        cin>>choice;
+  do
+  {
+    display_menu();
+    int menu_choice;
+    cout << "Enter a number\n";
+    cin>>menu_choice;
 
-    }while(choice == 'y' || choice == 'Y');
+    cout << "You selected: " << menu_choice;
+
+
+    cout << "Enter y to continue: ";
+    cin >> choice;
+  }while (choice == 'y' || choice == 'Y');
 }
 
 void display_menu()
 {
-  cout<< "1-Accounts Receivable\n";
-  cout<< "2 Accounts Payable \n";
-  cout << "3 Payroll \n";
+  cout << "1 Accounts receivable\n";
+  cout << "2 Accounts payable \n";
+  cout << "2 Payroll \n";
   cout << "4 Exit \n";
-  cout << "Select a number \n\n";
+  cout << "Select a number\n";
 }
-

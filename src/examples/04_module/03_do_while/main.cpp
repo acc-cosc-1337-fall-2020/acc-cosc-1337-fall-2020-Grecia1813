@@ -1,4 +1,5 @@
 #include "do_while.h"
+#include<iostream>
 
 
 int main() 
@@ -7,7 +8,3 @@ int main()
 	return 0;
 }
 
-void hello()
-{
-  //some code
-}
