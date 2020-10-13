@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/04_module/04_for_ranged/for_ranged.cpp
+for_ranged.h
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/04_module/04_for_ranged/for_ranged.h
+iostream
+-
+vector
+-
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/04_module/04_for_ranged/for_ranged.h
+string
+-
+vector
+-
+
