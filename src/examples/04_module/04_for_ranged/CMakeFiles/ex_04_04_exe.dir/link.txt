@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/ex_04_04_exe.dir/main.cpp.o CMakeFiles/ex_04_04_exe.dir/for_ranged.cpp.o  -o ex_04_04_exe 

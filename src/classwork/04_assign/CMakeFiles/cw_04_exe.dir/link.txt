@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/cw_04_exe.dir/main.cpp.o CMakeFiles/cw_04_exe.dir/loops.cpp.o  -o cw_04_exe 

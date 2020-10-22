@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/ex_01_02_exe.dir/main.cpp.o CMakeFiles/ex_01_02_exe.dir/vars.cpp.o  -o ex_01_02_exe 

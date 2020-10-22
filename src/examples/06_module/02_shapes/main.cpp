@@ -5,14 +5,28 @@
 #include "shape.h"
 #include "line.h"
 #include "circle.h"
-/*
-Create a Shape pointer of type Line
-Create vector of Shape pointers
-iterate with auto
-*/
+#include<iomanip>
+#include<cmath>
 
-int main() 
+using std::cout; using std::cin; //using namespace std;
+
+int main()
 {
+  int num;
+  SimpleStat statHelper;
 
-	return 0;
+  cout<<"Number: ";
+  cin >> num;
+
+  while (num >= 0)
+  {
+    statHelper.addNumber(num);
+    cin >> num;
+  }
+
+  cout<<"Entered: "<<statHelper.getCount()<<"\n";
+  cout<<"Largest: "<<statHelper.getLargest()<<"\n";
+  cout<<"Average: "<<statHelper.calcAverage()<<"\n";
+
+  return 0;
 }

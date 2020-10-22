@@ -1,0 +1,2 @@
+/usr/bin/ar qc libex_06_01_library.a  CMakeFiles/ex_06_01_library.dir/bank_account.cpp.o CMakeFiles/ex_06_01_library.dir/atm.cpp.o CMakeFiles/ex_06_01_library.dir/customer.cpp.o CMakeFiles/ex_06_01_library.dir/transaction.cpp.o CMakeFiles/ex_06_01_library.dir/savings_account.cpp.o CMakeFiles/ex_06_01_library.dir/checking_account.cpp.o
+/usr/bin/ranlib libex_06_01_library.a

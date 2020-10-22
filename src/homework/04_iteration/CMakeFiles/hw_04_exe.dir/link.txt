@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/hw_04_exe.dir/main.cpp.o CMakeFiles/hw_04_exe.dir/dna.cpp.o  -o hw_04_exe 

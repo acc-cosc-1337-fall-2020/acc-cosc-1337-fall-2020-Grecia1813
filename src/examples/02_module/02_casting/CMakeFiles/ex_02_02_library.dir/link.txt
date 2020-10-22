@@ -1,2 +1,0 @@
-/usr/bin/ar qc libex_02_02_library.a  CMakeFiles/ex_02_02_library.dir/casting.cpp.o
-/usr/bin/ranlib libex_02_02_library.a

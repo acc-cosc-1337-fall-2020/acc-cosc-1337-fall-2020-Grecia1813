@@ -12,11 +12,12 @@ int main()
   {
     cout<<name[i]<<"\n";
   }
+  cout<<"\n\n";
 
-  for(char c: name)
+  for(char n: name)
   {
-    cout<<c<<"\n";
+    cout<<n<<"\n";
   }
 
-	return 0;
+  return 0;
 }

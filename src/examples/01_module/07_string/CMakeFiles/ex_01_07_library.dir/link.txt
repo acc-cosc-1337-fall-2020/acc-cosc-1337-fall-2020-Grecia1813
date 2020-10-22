@@ -1,2 +1,0 @@
-/usr/bin/ar qc libex_01_07_library.a  CMakeFiles/ex_01_07_library.dir/str.cpp.o
-/usr/bin/ranlib libex_01_07_library.a

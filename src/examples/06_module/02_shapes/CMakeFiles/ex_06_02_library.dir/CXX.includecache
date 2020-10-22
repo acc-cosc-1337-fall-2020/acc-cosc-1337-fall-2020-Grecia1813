@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/02_shapes/circle.cpp
+circle.h
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/02_shapes/circle.h
+iostream
+-
+cmath
+-
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/02_shapes/circle.h
+cmath
+-
+iostream
+-
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/02_shapes/line.cpp
+line.h
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/02_shapes/line.h
+iostream
+-
+iomanip
+-
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/02_shapes/line.h
+iostream
+-
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/02_shapes/shape.cpp
+

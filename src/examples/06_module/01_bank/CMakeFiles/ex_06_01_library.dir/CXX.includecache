@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/atm.cpp
+atm.h
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/atm.h
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/atm.h
+bank_account.h
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/bank_account.h
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/bank_account.cpp
+bank_account.h
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/bank_account.h
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/bank_account.h
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/checking_account.cpp
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/customer.cpp
+customer.h
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/customer.h
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/customer.h
+iostream
+-
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/savings_account.cpp
+
+/home/runner/acc-cosc-1337-fall-2020-Grecia1813-1/src/examples/06_module/01_bank/transaction.cpp
+

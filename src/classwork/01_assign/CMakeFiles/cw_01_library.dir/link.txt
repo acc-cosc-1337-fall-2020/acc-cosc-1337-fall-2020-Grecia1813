@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcw_01_library.a  CMakeFiles/cw_01_library.dir/types.cpp.o
-/usr/bin/ranlib libcw_01_library.a

@@ -1,2 +1,0 @@
-/usr/bin/ar qc libex_04_03_library.a  CMakeFiles/ex_04_03_library.dir/do_while.cpp.o
-/usr/bin/ranlib libex_04_03_library.a

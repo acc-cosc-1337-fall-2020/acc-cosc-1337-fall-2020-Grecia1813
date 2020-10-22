@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcw_04_library.a  CMakeFiles/cw_04_library.dir/loops.cpp.o
-/usr/bin/ranlib libcw_04_library.a

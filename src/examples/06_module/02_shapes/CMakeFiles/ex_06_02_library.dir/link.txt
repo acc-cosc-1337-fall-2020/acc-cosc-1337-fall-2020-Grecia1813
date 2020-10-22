@@ -1,0 +1,2 @@
+/usr/bin/ar qc libex_06_02_library.a  CMakeFiles/ex_06_02_library.dir/shape.cpp.o CMakeFiles/ex_06_02_library.dir/circle.cpp.o CMakeFiles/ex_06_02_library.dir/line.cpp.o
+/usr/bin/ranlib libex_06_02_library.a

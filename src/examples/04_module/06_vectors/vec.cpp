@@ -1,9 +1,16 @@
-#include "for_ranged.h"
+#include "vec.h"
 #include<iostream>
 #include<vector>
 
 using std::vector;
 
+void loop_vector_w_index(std::vector<int> nums)
+{
+  for(std::size_t i=0; i < nums.size(); ++i)
+  {
+    nums[i] = 0;
+  }
+}
 /*
 Function loop_vector_w_index 
 The function creates an int vector with values 9, 10, 99, 5, 67
